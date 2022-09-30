@@ -1,5 +1,7 @@
 # tesis_pre_grado
 Aqui encontraras la base de datos y do file (stata) aplicado en mi tesis de pregrado, espero les pueda ser de mucha ayuda
+
+
 TITULO: Valoración económica ambiental para conservación de servicios ecosistémicos de la bahía interior de Puno, lago Titicaca, 2020
 URL: http://repositorio.unap.edu.pe/handle/UNAP/18928
 
